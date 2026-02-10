@@ -2,7 +2,7 @@
 I am a senior at the University of Central Florida, double-majoring in Digital Media and Psychology with a focus on web and mobile application design and development. I'm passionate about transforming creative ideas into functional, user-centered solutions, applying human-centered principles to guide research, design, and development decisions.
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolesposito) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nicoleesposiito) 
 
 # Tech Stack:
